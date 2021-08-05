@@ -1,6 +1,6 @@
 This is a simple digital clock made by me in HTML, CSS and Javascript.
 
-1)Extract Folder
+1) Download files.
 
 2)Just run the .html file in your web browser.
 
