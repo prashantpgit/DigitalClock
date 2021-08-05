@@ -1,0 +1,11 @@
+.clock-design {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #00FFFF;
+    font-size: 75px;
+    font-family: Orbitron, sans-serif;
+    letter-spacing: 8px;
+}
+
