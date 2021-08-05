@@ -4,3 +4,6 @@ Beginners can learn from it.
 
 You are free to use and customize this script as you want!
 
+
+![DigitalClock](https://media.giphy.com/media/HGCqpWb6DaSN9VSqUb/giphy.gif)
+
