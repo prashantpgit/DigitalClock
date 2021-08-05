@@ -4,6 +4,10 @@ Beginners can learn from it.
 
 You are free to use and customize this script as you want!
 
+Chill and enjoy Life!. Stay Home, Stay Safe.
+
+Enjoy coding!
+
 
 
 
