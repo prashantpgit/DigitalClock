@@ -13,6 +13,11 @@ Chill and enjoy Life!. Stay Home, Stay Safe.
 Enjoy coding!
 
 
+Here is the working demo of Digital Clock :
+
+https://prashantpgit.github.io/DigitalClock/
 
 
-![](https://media.giphy.com/media/HGCqpWb6DaSN9VSqUb/source.gif)
+
+
+![Digital Clock](https://media.giphy.com/media/HGCqpWb6DaSN9VSqUb/source.gif)
