@@ -3,14 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href = "clock.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/33c6f35101.js" crossorigin="anonymous"></script>	
     <title>Digital clock!</title>
   </head>
-  <body class="bg-dark">
+  <body>
+	 <h1>Toggle dark mode!</h1>
+  	  <span id="toggle-switch" title="Toggle Dark ">
+        <i class="fas fa-moon" id="toggle-switch"></i>
+      </span>
       <div id="showClock" class="clock-design" onload="displayTime()">
 	  </div>
 	  <script src ="clock.js"></script>
+	  <script src ="theme.js"></script
   </body>
 </html>
