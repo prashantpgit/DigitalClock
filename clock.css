@@ -3,9 +3,40 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    color: #00FFFF;
-    font-size: 75px;
+    font-size: 65px;
     font-family: Orbitron, sans-serif;
-    letter-spacing: 8px;
+    letter-spacing: 5px;
 }
 
+h1{
+	font-size: 40px;
+    font-family: Orbitron, sans-serif;
+    letter-spacing: 2px;
+}
+
+html {
+  --bck-color: #FCFFDB;
+  --ft-color: #000;
+  --link-color: blue;
+}
+
+html.dark {
+  --bck-color: #000;
+  --ft-color: aqua;
+  --link-color: #DDD;
+}
+
+body {
+  background: var(--bck-color);
+  color: var(--ft-color);
+  max-width: 40em;
+  padding: 5% 3%;
+  margin: 0 auto;
+}
+
+
+a:link,
+a:visited,
+a:active {
+  color: var(--link-color);
+}
